@@ -1,0 +1,11 @@
+Django==5.2.5
+djangorestframework
+celery==5.3.4
+redis
+channels
+daphne
+PyMySQL
+drf-yasg
+django-cors-headers
+PyJWT
+django-filter
